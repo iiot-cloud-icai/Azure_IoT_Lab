@@ -3,7 +3,7 @@ import json
 
 #YOU NEED TO UPDATE THESE LINES
 CONTAINER_HOSTNAME = "iotteacherdeployment.westeurope.azurecontainer.io"
-DEVICE_NAME = "demo_TMO"
+DEVICE_NAME = "simulatedDevice"
 
 device_command = "start_engine"
 
