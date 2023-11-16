@@ -27,8 +27,8 @@ It may take a few minutes to deploy. Once deployed, go to resource and collect t
 
 # Configure the Azure Container instance template 
 
-In the provided python script on `cloud-to-device-app/3_send_request.py`, you will need to update the parameter in the code where you define the hostname of your container application in the variable CONTAINER_HOSTNAME, as shown in the following snippet, with the previously obtained FQDN
+In the provided python script on `cloud-to-device-app/3_send_request.py`, you will need to update the parameters in the code where you define the hostname of your container application in the variable CONTAINER_HOSTNAME, and the DEVICE_NAME with the name of the device you created in the IoT Hub, as shown in the following snippet, with the previously obtained FQDN
 
-![Lab diagram](../images/cloud_to_device_4.jpg "Header Image")
+![Lab diagram](../images/pythoncloudtodevice.png "Header Image")
 
 You have a sample piece of logic you can now integrate in your application code for sending cloud to device messages
