@@ -1,3 +1,4 @@
+<!--
 # Creating IoT applications
 
 So far, we have seen different modules that highlight IoT application concepts for creating real IoT projects. This module will show a simple IoT application leveraging the concepts practiced so far in all previous modules.
@@ -47,7 +48,7 @@ See in the capture below, top terminal window shows the execution of the `sample
 
 ![Lab diagram](../images/app-3.png "Header Image")
 
-
+-->
 ### Integrating a Python APP with Azure Logic Apps (ALA) for executing workflows
 Azure Logic Apps, used in module 8, is a highly versatile service that can be used to implement complex workflows. It has many connectors with 3rd party applications (Twitter, Office365, Gmail, custom webhooks, Microsoft Teams, Slack) allowing you create cool interactions. Please take a look at the Microsoft [Azure official documentation](https://docs.microsoft.com/en-us/azure/logic-apps/) and many available examples in the internet.
 
