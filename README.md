@@ -35,8 +35,10 @@ Your group name shall be `icaiiotlabgroupX`, where:
 ### Module 6: Manual device messaging
 [Send a message to the device](messages/README.md)
 
+<!--
 ### Module 7: Visualize sensor data
 [Visualize sensor data](visualize/README.md)
+-->
 
 ### Module 8: Post in Mastodon
 [Post a notification in Mastodon after device is created in IoT Hub](notification/README.md)
