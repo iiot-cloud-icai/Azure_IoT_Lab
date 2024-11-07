@@ -61,9 +61,6 @@ Review module 2 in which we sent traffic to Azure IoT Hub from the simulated dev
 Messages will not show up in the Storage instantaneously, as a default **Batch frequency** of 100 seconds, was configured while creating the Storage endpoint
 ![Snapshot](../images/simulated-10.png "Azure VM")
 
-
-## Sending messages to Azure IoT hub from the simulated device.
-
 After waiting for the period in the batch frequency field, device data will be stored in the storage account. Navigate to the storage account and see the messages stored in text, as shown in the next window path.
 
 ![Snapshot](../images/routing-9.png "Storage")
