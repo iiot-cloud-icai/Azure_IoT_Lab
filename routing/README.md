@@ -31,7 +31,7 @@ First we need to declare the previously created storage endpoint.
 Once the task is completed, the **Custom endpoint** will be shown as highlighted in red in the image below:
 
 ![Snapshot](../images/routing-5.PNG "Storage")
-
+<!---
 ## Creating a Custom Endpoint of type Storage under Azure IoT Hub routes
 
 In the previous step, we declared an Azure Storage container as a potential destination for sending device messages, but did nothing with it yet. <br/> 
@@ -51,7 +51,7 @@ Note in this case all messages will go to this endpoint, since the **Routing que
 Once the route is active, the following information will be shown in the screen.
 
 ![Snapshot](../images/routing-8.png "Storage")
-
+--->
 ## Sending messages to Azure IoT hub from the simulated device.
 
 Review module 2 in which we sent traffic to Azure IoT Hub from the simulated device.
