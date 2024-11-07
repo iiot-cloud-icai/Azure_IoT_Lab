@@ -88,7 +88,7 @@ Execute the following commands. Try to make sense at what those commands do
 sudo apt-get update -y
 sudo apt install python3-pip -y
 pip3 install azure-iot-device
-git clone https://github.com/SeryioGonzalez/Azure_IoT_Lab.git
+git clone https://github.com/iiot-cloud-icai/Azure_IoT_Lab.git
 ```
 ## Send data to Azure IoT Hub using the device connection string of Module 1
 After downloading the repo, the python3 script for sending data to IoT Hub is located in the iot-client folder. <br/>
